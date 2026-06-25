@@ -1,8 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export',
+  basePath: '/TestPrep',
   images: {
-    domains: [],
-    formats: ['image/avif', 'image/webp'],
+    unoptimized: true,
   },
 }
 
