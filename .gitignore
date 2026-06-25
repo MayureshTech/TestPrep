@@ -1,0 +1,25 @@
+# dependencies
+node_modules/
+
+# build output
+.next/
+out/
+dist/
+
+# debug
+*.log
+npm-debug.log*
+
+# typescript
+tsconfig.tsbuildinfo
+
+# misc
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+.env
+
+# reference image
+WhatsApp Image 2026-06-23 at 22.28.43.png
