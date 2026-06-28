@@ -120,7 +120,7 @@ export default function HeroSection() {
           >
             <div className="relative mx-auto aspect-[3/4] max-w-md overflow-hidden rounded-2xl">
               <Image
-                src="/images/student-hero.jpg"
+                src="images/student-hero.jpg"
                 alt="Smiling student confident about her SAT prep journey with Elevation Test Prep"
                 fill
                 className="object-cover"
